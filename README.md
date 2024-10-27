@@ -1,0 +1,1 @@
+This is a portfolio project for assignment purpose. I am using html,css and js for this project. It is responsive for mobile also and anyone can download my cv from here. also you can give any feedback and advice 
